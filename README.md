@@ -59,4 +59,4 @@ L'objectif est de créer une application de e-commerce offrant une interface con
 1. Clonez le repository :
 
 ```bash
-git clone https://github.com/Safaa-Ettalhi/ecommerce
+git clone https://github.com/Safaa-Ettalhi/ecommerce.git
